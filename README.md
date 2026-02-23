@@ -11,10 +11,6 @@ Currently learning how to build **machine learning and deep learning projects** 
 - 🤝 Open to: **internships, collaborations, and hackathons**
 - 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/mediboyina-leela-venkata-madhava-b492b3295/)**
 
-## GitHub stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoursmadhavaM&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoursmadhavaM&layout=compact&theme=tokyonight)
-
 ## Tech stack
 ### Languages
 <p>
