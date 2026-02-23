@@ -4,13 +4,13 @@ I'm a **Data Science Engineering student** interested in **web development, back
 Currently learning how to build **machine learning and deep learning projects** and deploy them as real applications.
 
 ## About me
-- 🎓 Student: **Data Science Engineering**
-- 💡 Interests: **Backend • Web Dev • AI • Automation**
-- 🧰 Skills: **Web Development • PHP • Automation**
-- 🌱 Learning: **Machine Learning • Deep Learning**
-- 🤝 Open to: **internships, collaborations, and hackathons**
-- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/mediboyina-leela-venkata-madhava-b492b3295/)**
 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="18" alt="Student" /> 🎓 Student: **Data Science Engineering**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="18" alt="Backend" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="Web dev" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="AI" /> 💡 Interests: **Backend • Web Dev • AI • Automation**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="18" alt="PHP" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="18" alt="HTML" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="18" alt="CSS" /> 🧰 Skills: **Web Development • PHP • Automation**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="ML" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="18" alt="Deep Learning" /> 🌱 Learning: **Machine Learning • Deep Learning**
+- <img src="https://img.shields.io/badge/Open%20to-Internships%20%7C%20Collaborations%20%7C%20Hackathons-22c55e?style=flat" height="18" alt="Open to opportunities" /> 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="18" alt="LinkedIn" /> 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/mediboyina-leela-venkata-madhava-b492b3295/)**
 ## Tech stack
 ### Languages
 <p>
