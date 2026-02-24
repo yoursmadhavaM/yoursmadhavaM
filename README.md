@@ -42,7 +42,7 @@ Currently learning how to build **machine learning and deep learning projects** 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" alt="Docker" />
 </p>
 
-### Hosting / Deployment
+### Hosting / Deployment.
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Vercel" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="28" alt="Netlify" />
